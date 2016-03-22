@@ -106,7 +106,6 @@ function app() {
     	},
 
 
-
     	getInitialState:function() {
     		return{
     			year:parseInt(this.props.yearData),
